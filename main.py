@@ -115,19 +115,3 @@ vis.add_geometry(mesh)
 vis.add_geometry(obb)
 vis.run()
 vis.destroy_window()
-
-
-# =======================
-# SAFE VISUALIZATION OUTPUT (NO OPENGL)
-# =======================
-
-# Convert OBB to LineSet (wireframe)
-# obb_lines = o3d.geometry.LineSet.create_from_oriented_bounding_box(obb)
-
-# # Save mesh + OBB as files
-# o3d.io.write_triangle_mesh("mesh_output.ply", mesh)
-# o3d.io.write_line_set("obb_wireframe.ply", obb_lines)
-
-# print("\n[OK] Visualization data exported:")
-# print(" - mesh_output.ply")
-# print(" - obb_wireframe.ply")
