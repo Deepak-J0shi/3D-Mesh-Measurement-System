@@ -20,7 +20,6 @@ A Python-based 3D geometry system that reads raw `.obj` mesh files, extracts ver
 8. [Visualization & Validation Strategy](#visualization--validation-strategy)
 9. [Challenges & Trade-Offs](#challenges--trade-offs)
 10. [Performance & System Notes](#performance--system-notes)
-11. [Improvements (Prioritized)](#improvements-prioritized)
 
 ---
 
