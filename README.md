@@ -3,7 +3,8 @@
 A Python-based 3D geometry system that reads raw `.obj` mesh files, extracts vertex data, applies **Principal Component Analysis (PCA)** to determine object orientation, computes a **tight Oriented Bounding Box (OBB)**, and visually validates dimensions and volume using **Open3D**.
 
 <img width="1026" height="662" alt="Screenshot from 2025-12-23 20-01-10" src="https://github.com/user-attachments/assets/10abada7-0019-4996-9ef0-a52ddfbf9b4b" />
-<img width="1026" height="662" alt="Screenshot from 2025-12-23 20-01-24" src="https://github.com/user-attachments/assets/7c68f712-0518-406b-998e-aebc9a6893b7" />
+<img width="740" height="426" alt="image" src="https://github.com/user-attachments/assets/85c7bc44-8a39-49d6-9deb-e4bc62d42bef" />
+
 
 
 ---
