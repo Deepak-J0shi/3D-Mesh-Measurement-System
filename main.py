@@ -88,8 +88,7 @@ print(f"\nOBB Volume: {volume:.4f}")
 # OBB VISUALIZATION
 # =======================
 
-# 15. Create Open3D mesh again (for visualization)
-mesh = o3d.io.read_triangle_mesh("data/CUBE.obj")
+# 15. visualization
 mesh.compute_vertex_normals()
 mesh.paint_uniform_color([0.7, 0.7, 0.7])  # light gray
 
