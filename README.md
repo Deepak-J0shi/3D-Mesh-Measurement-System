@@ -15,13 +15,12 @@ A Python-based 3D geometry system that reads raw `.obj` mesh files, extracts ver
 3. [Folder Structure](#folder-structure)
 4. [How to Run Locally](#how-to-run-locally)
 5. [System Flow & Design Decisions](#system-flow--design-decisions)
-
-   * Mermaid Flow Diagram
 6. [Geometry Processing Pipeline](#geometry-processing-pipeline)
-7. [Visualization & Validation Strategy](#visualization--validation-strategy)
-8. [Challenges & Trade-Offs](#challenges--trade-offs)
-9. [Performance & System Notes](#performance--system-notes)
-10. [Improvements (Prioritized)](#improvements-prioritized)
+7. [Mermaid Flow Diagram](#geometry-processing-pipeline)
+8. [Visualization & Validation Strategy](#visualization--validation-strategy)
+9. [Challenges & Trade-Offs](#challenges--trade-offs)
+10. [Performance & System Notes](#performance--system-notes)
+11. [Improvements (Prioritized)](#improvements-prioritized)
 
 ---
 
